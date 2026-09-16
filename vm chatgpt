@@ -1,0 +1,161 @@
+Experiment 7 – Type-2 Hypervisor & VM Image
+
+Aim:
+To demonstrate virtualization by installing a Type-2 hypervisor and creating/configuring a Windows or Linux VM image.
+
+Procedure:
+
+Open the Type-2 virtualization software.
+Install the hypervisor on the host computer.
+Launch the hypervisor application.
+Select Create New Virtual Machine.
+Select the required Windows or Linux ISO image.
+Specify the virtual machine name and location.
+Configure the required virtual hardware.
+Create the virtual machine.
+Start the VM and complete the OS installation.
+Verify that the VM is running successfully.
+
+Input:
+Windows/Linux ISO image and VM configuration details.
+
+Output:
+A configured virtual machine running the selected operating system.
+
+Result:
+Thus, the Type-2 hypervisor was installed and a virtual machine was successfully created and configured.
+
+Experiment 8 – Virtual Machine Configuration
+
+Aim:
+To create a virtual machine with 1 CPU, 2 GB RAM and 15 GB storage using Type-2 virtualization software.
+
+Procedure:
+
+Open the Type-2 virtualization software.
+Select Create New Virtual Machine.
+Enter the virtual machine name.
+Select the required OS/ISO image.
+Set the CPU to 1 processor.
+Allocate 2 GB RAM.
+Create a virtual disk of 15 GB.
+Review the VM configuration.
+Create and start the virtual machine.
+Verify the allocated CPU, RAM and storage.
+
+Input:
+CPU = 1, RAM = 2 GB, Storage = 15 GB.
+
+Output:
+A virtual machine configured with 1 CPU, 2 GB RAM and 15 GB storage.
+
+Result:
+Thus, the virtual machine was successfully created with the specified resources.
+
+Experiment 9 – Virtual Hard Disk using VMware
+
+Aim:
+To create a virtual hard disk and allocate storage using VMware Workstation.
+
+Procedure:
+
+Open VMware Workstation.
+Select the required virtual machine.
+Open the VM settings.
+Select Add Hardware.
+Select Hard Disk.
+Select the required virtual disk type.
+Specify the required storage capacity.
+Select the disk location.
+Create and save the virtual hard disk.
+Verify that the disk is attached to the VM.
+
+Input:
+Virtual disk type, storage capacity and disk location.
+
+Output:
+A virtual hard disk with the specified storage allocation.
+
+Result:
+Thus, the virtual hard disk was successfully created and allocated using VMware Workstation.
+
+Experiment 10 – VM Snapshot and Restore
+
+Aim:
+To create a snapshot of a virtual machine and test it by loading the previous version.
+
+Procedure:
+
+Open the virtualization software.
+Select the required virtual machine.
+Start the VM and make a configuration change.
+Open the Snapshot option.
+Create a new snapshot.
+Give a suitable snapshot name.
+Make another change to the VM.
+Select the previously created snapshot.
+Choose Restore/Revert to the snapshot.
+Verify that the previous VM state is restored.
+
+Input:
+Virtual machine state and snapshot name.
+
+Output:
+The VM is restored to its previously saved state.
+
+Result:
+Thus, the VM snapshot was successfully created and the previous version was restored.
+
+Experiment 11 – VM Clone
+
+Aim:
+To create a clone of a virtual machine and test it by loading the cloned VM.
+
+Procedure:
+
+Open the virtualization software.
+Select the existing virtual machine.
+Open the Clone option.
+Select the appropriate cloning option.
+Enter a name for the cloned VM.
+Select the storage location.
+Create the clone.
+Wait for the cloning process to complete.
+Start the cloned virtual machine.
+Verify that the cloned VM works correctly.
+
+Input:
+Source VM, clone name and storage location.
+
+Output:
+A new virtual machine with the same configuration as the source VM.
+
+Result:
+Thus, the virtual machine was successfully cloned and the cloned VM was tested.
+
+Experiment 12 – Change VM Hardware Compatibility
+
+Aim:
+To change the hardware compatibility of an already created and configured virtual machine.
+
+Procedure:
+
+Open the virtualization software.
+Select the existing virtual machine.
+Open the VM settings/options.
+Select Change Hardware Compatibility.
+Choose the required compatibility version.
+Review the compatibility settings.
+Confirm the compatibility change.
+Complete the configuration process.
+Start the virtual machine.
+Verify that the VM operates with the new hardware compatibility.
+
+Input:
+Existing VM and required hardware compatibility version.
+
+Output:
+The VM is updated to the selected hardware compatibility.
+
+Result:
+Thus, the hardware compatibility of the virtual machine was successfully changed.
