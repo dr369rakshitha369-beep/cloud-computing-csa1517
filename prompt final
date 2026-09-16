@@ -1,0 +1,37 @@
+Create a simple cloud-based data management system for the following practical requirement:
+
+"[PASTE THE EXACT PRACTICAL QUESTION HERE]"
+
+This is only for a college practical demonstration.
+
+Do not build a large or complicated application.
+Do not create a dashboard.
+Do not create a portal.
+Do not add advanced automation.
+Do not add unnecessary features.
+
+I only need simple forms/tables to enter sample data and generate reports from that data.
+
+Based on the given practical question:
+
+1. Identify only the necessary entities/tables.
+2. Create simple forms for those entities.
+3. Add suitable basic fields for each form.
+4. Use Auto Number for IDs where appropriate.
+5. Use Lookup fields only when one form needs to be connected with another.
+6. Keep the field names simple and relevant to the question.
+7. Allow me to manually enter sample records.
+8. Create simple List Reports for each important form.
+9. Reports should display the entered records in a clear table format with column headings.
+10. Give the reports simple names based on the entity, such as "[Entity Name] Report".
+11. Do not create a dashboard or analytics page.
+12. Do not create unnecessary pages or modules.
+13. Keep the design basic and suitable for a student practical.
+14. Do not make it look like a commercial or professional enterprise application.
+15. Do not add features that are not required by the practical question.
+
+The final result should mainly contain:
+Forms → Sample Data Entry → Reports.
+
+Student Name: DR.RAKSHITHA
+Student Email: [192521223.simats@saveetha.com](mailto:192521223.simats@saveetha.com)
